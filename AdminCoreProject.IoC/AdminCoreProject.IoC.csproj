@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdminCoreProject.ApiClient\AdminCoreProject.ApiClient.csproj" />
+    <ProjectReference Include="..\AdminCoreProject.Cookie\AdminCoreProject.Cookie.csproj" />
+    <ProjectReference Include="..\AdminCoreProject.Data\AdminCoreProject.Data.csproj" />
+    <ProjectReference Include="..\AdminCoreProject.Services\AdminCoreProject.Services.csproj" />
+  </ItemGroup>
+
+</Project>

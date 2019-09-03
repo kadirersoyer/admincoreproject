@@ -1,0 +1,9 @@
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Entities\bin\Debug\netcoreapp2.2\AdminCoreProject.Entities.deps.json
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Entities\bin\Debug\netcoreapp2.2\AdminCoreProject.Entities.dll
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Entities\bin\Debug\netcoreapp2.2\AdminCoreProject.Entities.pdb
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Entities\obj\Debug\netcoreapp2.2\AdminCoreProject.Entities.csproj.CoreCompileInputs.cache
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Entities\obj\Debug\netcoreapp2.2\AdminCoreProject.Entities.AssemblyInfoInputs.cache
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Entities\obj\Debug\netcoreapp2.2\AdminCoreProject.Entities.AssemblyInfo.cs
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Entities\obj\Debug\netcoreapp2.2\AdminCoreProject.Entities.dll
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Entities\obj\Debug\netcoreapp2.2\AdminCoreProject.Entities.pdb
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Entities\obj\Debug\netcoreapp2.2\AdminCoreProject.Entities.csprojAssemblyReference.cache

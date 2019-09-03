@@ -1,0 +1,12 @@
+D:\AdminCore\AdminCoreProject\AdminCoreProject.ApiClient\bin\Debug\netcoreapp2.2\AdminCoreProject.ApiClient.deps.json
+D:\AdminCore\AdminCoreProject\AdminCoreProject.ApiClient\bin\Debug\netcoreapp2.2\AdminCoreProject.ApiClient.dll
+D:\AdminCore\AdminCoreProject\AdminCoreProject.ApiClient\bin\Debug\netcoreapp2.2\AdminCoreProject.ApiClient.pdb
+D:\AdminCore\AdminCoreProject\AdminCoreProject.ApiClient\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+D:\AdminCore\AdminCoreProject\AdminCoreProject.ApiClient\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+D:\AdminCore\AdminCoreProject\AdminCoreProject.ApiClient\obj\Debug\netcoreapp2.2\AdminCoreProject.ApiClient.csprojAssemblyReference.cache
+D:\AdminCore\AdminCoreProject\AdminCoreProject.ApiClient\obj\Debug\netcoreapp2.2\AdminCoreProject.ApiClient.csproj.CoreCompileInputs.cache
+D:\AdminCore\AdminCoreProject\AdminCoreProject.ApiClient\obj\Debug\netcoreapp2.2\AdminCoreProject.ApiClient.AssemblyInfoInputs.cache
+D:\AdminCore\AdminCoreProject\AdminCoreProject.ApiClient\obj\Debug\netcoreapp2.2\AdminCoreProject.ApiClient.AssemblyInfo.cs
+D:\AdminCore\AdminCoreProject\AdminCoreProject.ApiClient\obj\Debug\netcoreapp2.2\AdminCoreProject.ApiClient.csproj.CopyComplete
+D:\AdminCore\AdminCoreProject\AdminCoreProject.ApiClient\obj\Debug\netcoreapp2.2\AdminCoreProject.ApiClient.dll
+D:\AdminCore\AdminCoreProject\AdminCoreProject.ApiClient\obj\Debug\netcoreapp2.2\AdminCoreProject.ApiClient.pdb

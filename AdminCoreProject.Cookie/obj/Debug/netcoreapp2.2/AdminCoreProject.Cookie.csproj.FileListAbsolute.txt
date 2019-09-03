@@ -1,0 +1,9 @@
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Cookie\bin\Debug\netcoreapp2.2\AdminCoreProject.Cookie.deps.json
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Cookie\bin\Debug\netcoreapp2.2\AdminCoreProject.Cookie.dll
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Cookie\bin\Debug\netcoreapp2.2\AdminCoreProject.Cookie.pdb
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Cookie\obj\Debug\netcoreapp2.2\AdminCoreProject.Cookie.csproj.CoreCompileInputs.cache
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Cookie\obj\Debug\netcoreapp2.2\AdminCoreProject.Cookie.AssemblyInfoInputs.cache
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Cookie\obj\Debug\netcoreapp2.2\AdminCoreProject.Cookie.AssemblyInfo.cs
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Cookie\obj\Debug\netcoreapp2.2\AdminCoreProject.Cookie.dll
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Cookie\obj\Debug\netcoreapp2.2\AdminCoreProject.Cookie.pdb
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Cookie\obj\Debug\netcoreapp2.2\AdminCoreProject.Cookie.csprojAssemblyReference.cache

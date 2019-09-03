@@ -1,0 +1,14 @@
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Data\bin\Debug\netcoreapp2.2\AdminCoreProject.Data.deps.json
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Data\bin\Debug\netcoreapp2.2\AdminCoreProject.Data.dll
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Data\bin\Debug\netcoreapp2.2\AdminCoreProject.Data.pdb
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Data\bin\Debug\netcoreapp2.2\AdminCoreProject.DataContext.dll
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Data\bin\Debug\netcoreapp2.2\AdminCoreProject.Entities.dll
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Data\bin\Debug\netcoreapp2.2\AdminCoreProject.DataContext.pdb
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Data\bin\Debug\netcoreapp2.2\AdminCoreProject.Entities.pdb
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Data\obj\Debug\netcoreapp2.2\AdminCoreProject.Data.csprojAssemblyReference.cache
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Data\obj\Debug\netcoreapp2.2\AdminCoreProject.Data.csproj.CoreCompileInputs.cache
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Data\obj\Debug\netcoreapp2.2\AdminCoreProject.Data.AssemblyInfoInputs.cache
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Data\obj\Debug\netcoreapp2.2\AdminCoreProject.Data.AssemblyInfo.cs
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Data\obj\Debug\netcoreapp2.2\AdminCoreProject.Data.csproj.CopyComplete
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Data\obj\Debug\netcoreapp2.2\AdminCoreProject.Data.dll
+D:\AdminCore\AdminCoreProject\AdminCoreProject.Data\obj\Debug\netcoreapp2.2\AdminCoreProject.Data.pdb
